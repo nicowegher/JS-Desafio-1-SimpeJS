@@ -1,6 +1,5 @@
 body {
     background-color: #3c91e6;
-    background-size: cover;
     color: #fafffd;
     text-align: center;
     display: flex;
@@ -8,7 +7,7 @@ body {
     margin-top: 30%;
 }
 
-#sobreNombre {
+#fullName {
     color: #9fd356;
 }
 
